@@ -23,7 +23,5 @@
 hs_err_pid*
 .idea/
 hbase.iml
-pom.xml
-src/
 target/generated-sources/
 target/generated-test-sources/
