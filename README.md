@@ -1,5 +1,5 @@
 # hbase
 
-Hbase Admin API
+## Hbase Admin API
 
-Hbase Client API
+## Hbase Client API
