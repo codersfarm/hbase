@@ -1,6 +1,6 @@
 package com.hbase;
 
-import com.hbase.AdminAPI;
+import com.hbase.api.AdminAPI;
 import org.junit.Test;
 
 import java.io.IOException;

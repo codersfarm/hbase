@@ -1,5 +1,6 @@
-package com.hbase;
+package com.hbase.api;
 
+import com.hbase.HbaseConn;
 import javafx.util.Pair;
 import org.apache.hadoop.hbase.TableName;
 import org.apache.hadoop.hbase.client.*;
