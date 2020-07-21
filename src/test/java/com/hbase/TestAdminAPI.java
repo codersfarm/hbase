@@ -33,4 +33,9 @@ public class TestAdminAPI {
 		}
 		System.out.println(exist);
 	}
+
+	@Test
+	public void addColFamily() throws IOException {
+		AdminAPI.addColumnFamily("student","info");
+	}
 }
